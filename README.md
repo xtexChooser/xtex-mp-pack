@@ -22,7 +22,7 @@ This Fabric-modpack is client-only.
 
 - [MultiMC format](https://anonfiles.com/Fbuer1S0y5/xtex_s_MP_Pack_-_MultiMC_zip)
 
-  To keep your own customized configurations
+  To keep your own customized configurations, disable custom prelaunch command after first launch.
 
 ## Play Tips
 
