@@ -1,0 +1,13 @@
+name = "AudioShutdown"
+filename = "AudioShutdown-1.0-SNAPSHOT.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cSJudN5h/versions/LYfAbHTF/AudioShutdown-1.0-SNAPSHOT.jar"
+hash-format = "sha1"
+hash = "298ddb0f1f5726d4436a962a8e3fdd573ff0e0be"
+
+[update]
+[update.modrinth]
+mod-id = "cSJudN5h"
+version = "LYfAbHTF"

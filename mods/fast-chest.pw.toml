@@ -1,0 +1,7 @@
+name = "fast-chest"
+filename = "fast-chest-1.4+1.19.3.jar"
+
+[download]
+url = "https://download.fastgit.org/FakeDomi/FastChest/releases/download/1.4%2B1.19.3/fast-chest-1.4+1.19.3.jar"
+hash-format = "sha1"
+hash = "e4379c444259e7a335de476531827e06acf070ae"

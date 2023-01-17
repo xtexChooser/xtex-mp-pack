@@ -1,0 +1,13 @@
+name = "Litematica Printer"
+filename = "litematica-printer-1.19.3-3.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3llatzyE/versions/ZsFXkXdp/litematica-printer-1.19.3-3.1.jar"
+hash-format = "sha1"
+hash = "e45462b9c81e9aed05bd8e0baefb92223f959a89"
+
+[update]
+[update.modrinth]
+mod-id = "3llatzyE"
+version = "ZsFXkXdp"

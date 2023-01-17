@@ -1,0 +1,7 @@
+name = "seedcracker-x"
+filename = "seedcrackerX-2.13.1-test.jar"
+
+[download]
+url = "https://ghproxy.com/https://github.com/19MisterX98/SeedcrackerX/releases/download/prerelease/seedcrackerX-2.13.1-test.jar"
+hash-format = "sha1"
+hash = "7192f4a2686482b3315a0e42805daf4a8976f006"

@@ -1,0 +1,13 @@
+name = "TellMe"
+filename = "tellme-fabric-1.19.0-0.9.0-beta.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3023ebf8907992f7cb799d206f2c253d12920f6d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3878660
+project-id = 225781

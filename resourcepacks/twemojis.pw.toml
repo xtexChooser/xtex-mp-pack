@@ -1,0 +1,9 @@
+# https://modrinth.com/resourcepack/twemojis-in-minecraft
+name = "Twemojis In Minecraft"
+filename = "Twemojis In Minecraft 1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WdYcUVh8/versions/YQ9Rx8V6/Twemojis%20In%20Minecraft%201.1.zip"
+hash-format = "sha1"
+hash = "174a442eaacd34abeab58fe7326695a778ff06cd"

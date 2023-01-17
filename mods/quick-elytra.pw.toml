@@ -1,0 +1,13 @@
+name = "Quick Elytra"
+filename = "quick_elytra-3.0.2-mc1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/n25ZPrjA/versions/LuOeOjwg/quick_elytra-3.0.2-mc1.19.2.jar"
+hash-format = "sha1"
+hash = "ae8df808ed067e23709c5086a25d427e55a7ee98"
+
+[update]
+[update.modrinth]
+mod-id = "n25ZPrjA"
+version = "LuOeOjwg"

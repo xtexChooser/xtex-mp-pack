@@ -1,0 +1,13 @@
+name = "Datapacks Screen"
+filename = "datapacksscreen-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NJYMnNML/versions/2iVbumiU/datapacksscreen-1.0.0.jar"
+hash-format = "sha1"
+hash = "5d29366a6cb8fd17a53092fc7d7c607cb2c24246"
+
+[update]
+[update.modrinth]
+mod-id = "NJYMnNML"
+version = "2iVbumiU"
