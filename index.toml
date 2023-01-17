@@ -6,7 +6,11 @@ hash = "c95bae1d1ce0235ecccd3560b772ec1efb97f348a79f0fbe0a634f0c2ccefe2c"
 
 [[files]]
 file = "README.md"
-hash = "1b8aa8b3a21892a96be45ae34939c319735b47ba0ed26d89a4dec3e01eee751d"
+hash = "3dd6328dd13a88feb6f6194e1ae951cd9714a7d57330db385685d34bae171228"
+
+[[files]]
+file = "icon.svg"
+hash = "7bb655575371f8b4d4b339d3b81e7c66e475ca3a33677349053fdf4723633018"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
