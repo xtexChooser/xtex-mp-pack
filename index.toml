@@ -231,6 +231,11 @@ hash = "04656f5209870e2bad86c0e81ece85df8dc592ccfb20aa16e726ffb4be192216"
 metafile = true
 
 [[files]]
+file = "mods/flighthud.pw.toml"
+hash = "5a600d34553686c86c4dc5226b3a646c1b379c2d8f98c262de0d620bc042250d"
+metafile = true
+
+[[files]]
 file = "mods/imblocker.pw.toml"
 hash = "2a917f831b65bc75e867b942f7cd65e435b84278fd935ca410bf166ba69bb913"
 metafile = true
@@ -253,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "7d3727ee323a1e3e6a41719db11e343e0658cc149274b9d4426acc9ae21b1363"
+metafile = true
+
+[[files]]
+file = "mods/keybinds.pw.toml"
+hash = "28ed56553571bdeb0522d99c8994dabce48953b81ca69325952186736cf5b202"
 metafile = true
 
 [[files]]

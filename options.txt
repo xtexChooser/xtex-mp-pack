@@ -16,6 +16,8 @@ onlyShowSecureChat:false
 key_iliamakar.datapacksscreen.open_gui_keybind:key.keyboard.unknown
 key_key.inventoryhud.openconfig:key.keyboard.unknown
 key_key.glitchifyed.quick_elytra.open_config:key.keyboard.unknown
+key_key.quit.fast_quit:key.keyboard.unknown
+key_key.quit.boss_key:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
