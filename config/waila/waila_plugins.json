@@ -1,0 +1,12 @@
+{
+  "waila": {
+    "show_fluids": true,
+    "show_registry": true
+  },
+  "minecraft": {
+    "attribute.block_position": true,
+    "attribute.block_state": true,
+    "attribute.entity_position": true,
+    "note_block.int_value": true
+  }
+}

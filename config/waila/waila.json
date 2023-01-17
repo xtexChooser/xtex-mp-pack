@@ -1,0 +1,12 @@
+{
+  "general": {
+    "shiftForDetails": true,
+    "hideShiftText": true
+  },
+  "overlay": {
+    "color": {
+      "activeTheme": "waila:dark"
+    }
+  },
+  "configVersion": 1
+}
