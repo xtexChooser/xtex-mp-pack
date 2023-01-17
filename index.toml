@@ -485,6 +485,11 @@ hash = "a7c0411e93bf96188be2fa899f48cde25dd06843679927c13b00371941dd2c00"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mcwzh-meme-resourcepack.pw.toml"
+hash = "b38b26e05f8333c6964bb8c433cbb94f4816a81c4542faaf3d8ba96494b496fa"
+metafile = true
+
+[[files]]
 file = "resourcepacks/sofron-ocd.pw.toml"
 hash = "98f6f76cb44421e34128f9d84606ed8f5e6b3b18ee2b78d56cb436f59927759c"
 metafile = true
