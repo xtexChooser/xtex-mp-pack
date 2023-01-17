@@ -19,7 +19,7 @@ jobs:
         run: |
           curl -o packwiz.zip -L https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip
           unzip packwiz.zip
-          chmod +x packwiz.zip
+          chmod +x packwiz
 
       - name: Build
         run: |
