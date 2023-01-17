@@ -27,7 +27,7 @@ jobs:
           ./packwiz curseforge export
 
       - name: Publish
-        #        if: github.event_name == 'release'
+        if: github.event_name == 'release'
         uses: Kir-Antipov/mc-publish@v3.2
         with:
           modrinth-id: HsMwyVxf
