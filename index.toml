@@ -5,10 +5,6 @@ file = "LICENSE"
 hash = "c95bae1d1ce0235ecccd3560b772ec1efb97f348a79f0fbe0a634f0c2ccefe2c"
 
 [[files]]
-file = "README.md"
-hash = "3dd6328dd13a88feb6f6194e1ae951cd9714a7d57330db385685d34bae171228"
-
-[[files]]
 file = "icon.svg"
 hash = "7bb655575371f8b4d4b339d3b81e7c66e475ca3a33677349053fdf4723633018"
 
