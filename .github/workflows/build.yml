@@ -1,0 +1,74 @@
+name: Build
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+  release:
+    types:
+      - created
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install packwiz
+        run: |
+          curl -o packwiz.zip -L https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip
+          unzip packwiz.zip
+          chmod +x packwiz.zip
+
+      - name: Build
+        run: |
+          ./packwiz modrinth export
+          ./packwiz curseforge export
+          ./packwiz list > modlist.txt
+          echo # Mods\n > report.md
+          cat modlist.txt >> report.md
+
+      - name: Publish
+#        if: github.event_name == 'release'
+        uses: Kir-Antipov/mc-publish@v3.2
+        with:
+          modrinth-id: HsMwyVxf
+          modrinth-featured: ${{ github.event_name == 'release' }}
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+          files-primary: *.mrpack
+          loaders: fabric
+          game-versions: 1.19.3
+      
+      - name: Create report
+        uses: dtinth/markdown-report-action@v1
+        with:
+          name: Mod List
+          title: Mod List
+          body-file: ./report.md
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: Modrinth
+          path: *.mrpack
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: Curseforge
+          path: *.zip
+
+      - name: Upload Release
+        uses: fnkr/github-action-ghr@v1
+        if: github.event_name == 'release'
+        env:
+          GHR_PATH: *.mrpack
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload Release
+        uses: fnkr/github-action-ghr@v1
+        if: github.event_name == 'release'
+        env:
+          GHR_PATH: *.zip
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
