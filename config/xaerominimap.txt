@@ -1,0 +1,3 @@
+updateNotification:false
+deathpoints:true
+oldDeathpoints:false
