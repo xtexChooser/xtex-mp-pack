@@ -1,13 +1,13 @@
 name = "xtex's MP Pack"
 author = "xtex"
-version = "1.0.0"
+version = "1.1.0"
 description = "Minecraft modpack focusing on multiplayer (Survival, Creative or PvP) performance and experience optimization. "
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ad524aada2e523ed1b1752001731c6ee0ab7f9ccb647b6c7ea6afaabce41e796"
+hash = "6c2b25f3f6f2eacb9decfc39049c4a8788132e654f40a6dce833843ce7f4032d"
 
 [versions]
 fabric = "0.14.12"
