@@ -8,7 +8,7 @@ guiScale:2
 particles:1
 tutorialStep:none
 skipMultiplayerWarning:true
-resourcePacks:["vanilla","fabric","file/1.19.3 redstone display 2.5.zip","file/Default-Dark-Mode-1.19.2-v1.4.0.zip","file/Twemojis In Minecraft 1.1.zip","file/VisibleOres2.9.zip"]
+resourcePacks:["vanilla","fabric","file/1.19.3 redstone display 2.5.zip","file/Twemojis In Minecraft 1.1.zip","file/VisibleOres2.9.zip","file/Default-Dark-Mode-1.19.2-v1.4.0.zip"]
 advancedItemTooltips:true
 joinedFirstServer:false
 allowServerListing:true
