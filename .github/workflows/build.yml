@@ -25,6 +25,9 @@ jobs:
         run: |
           ./packwiz modrinth export
           ./packwiz curseforge export
+          mkdir rel
+          cp *.mrpack rel/
+          cp *.zip rel/
 
       - name: Publish
         if: github.event_name == 'release'
@@ -53,12 +56,5 @@ jobs:
         uses: fnkr/github-action-ghr@v1
         if: github.event_name == 'release'
         env:
-          GHR_PATH: "*.mrpack"
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Upload Release
-        uses: fnkr/github-action-ghr@v1
-        if: github.event_name == 'release'
-        env:
-          GHR_PATH: "*.zip"
+          GHR_PATH: rel
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
