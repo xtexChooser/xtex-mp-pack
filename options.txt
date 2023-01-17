@@ -1,0 +1,20 @@
+version:3218
+autoJump:true
+showSubtitles:true
+forceUnicodeFont:true
+gamma:1.0
+renderDistance:12
+particles:1
+skipMultiplayerWarning:true
+resourcePacks:["vanilla","fabric","file/1.19.3 redstone display 2.5.zip","file/Default-Dark-Mode-1.19.2-v1.4.0.zip","file/Twemojis In Minecraft 1.1.zip","file/VisibleOres2.9.zip"]
+advancedItemTooltips:true
+joinedFirstServer:false
+allowServerListing:true
+onlyShowSecureChat:false
+key_iliamakar.datapacksscreen.open_gui_keybind:key.keyboard.unknown
+key_key.inventoryhud.openconfig:key.keyboard.unknown
+key_key.glitchifyed.quick_elytra.open_config:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+soundCategory_music:0.35
