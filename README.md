@@ -26,9 +26,13 @@ This Fabric-modpack is client-only.
 
 ## Play Tips
 
+### Key Bindings
 
+- `G`: swap elytra and chestplate
 
 ### Known Issues
+
+- Crashes when opening creative mode inventory in single-player mode([multiconnect#505](https://github.com/Earthcomputer/multiconnect/issues/505))
 
 ### TODO
 
