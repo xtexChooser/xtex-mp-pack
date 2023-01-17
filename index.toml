@@ -5,6 +5,98 @@ file = "LICENSE"
 hash = "c95bae1d1ce0235ecccd3560b772ec1efb97f348a79f0fbe0a634f0c2ccefe2c"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "21fb57bf2ce0dc6a1e6d70482a9085b8307d6aa54b24e674b1790f29648ebf85"
+
+[[files]]
+file = "config/TitleChanger/config.json5"
+hash = "d5bbe8d0f06157efd5ae0605d7cb8aa4233d52f21db3960b9c5b415282f37e3e"
+
+[[files]]
+file = "config/TitleChanger/icons/icon16.png"
+hash = "e63188d51788cd9bb96e0727c2d80b2a6a840773b3cd7e79803ec236263c76bf"
+
+[[files]]
+file = "config/TitleChanger/icons/icon32.png"
+hash = "f598710e0692f8429d3367fa50a53ebe4b38ca97f58ed0ae2548e2958acad9fa"
+
+[[files]]
+file = "config/betterpingdisplay.json"
+hash = "84cbc7d60663e8cf95647d7fb8f3c3a40217c07ea4c0426d4fede8dd88d4bc13"
+
+[[files]]
+file = "config/debugify.json"
+hash = "6996193d411b58e087ab2c76c0a209a28d075e847ca8416cd5f3e74fe1633903"
+
+[[files]]
+file = "config/dynamicfps.toml"
+hash = "3429fa956cf7b9f29667fcfc74fdc4b505d25c4ec9a237281f33ff87e2e9df23"
+
+[[files]]
+file = "config/inventoryhud.json"
+hash = "355d5955c59d3d7c932339e0ec4a18bff44e2c451c31a35690fbcab6a6ad3c30"
+
+[[files]]
+file = "config/iris.properties"
+hash = "fc273072f132ab4beba18bdee72e80cce7f82775d91219b39bbff41f9ac5158c"
+
+[[files]]
+file = "config/lambdynlights.toml"
+hash = "83b8c0bbd7c92d6e668155d49f5266a1537988d76866e16ff310e2faa07ad2e3"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "6beb9fd9967db5dc552e16b469e3f932b6f485aa43f43460e0634354a1e45289"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "0bb717f5380005eb004f5279882affc4184eea52373c66c662566ead2679f01a"
+
+[[files]]
+file = "config/multiconnect/config.json"
+hash = "c9ef7cebc6d2066002a2b669474158ea01b516402d6ede0b665a375822fe7441"
+
+[[files]]
+file = "config/purpurclient.conf"
+hash = "32358c719ac26840e2d68c2aed4727e7a1982413faa2fa16c4053a3deb5ca8b4"
+
+[[files]]
+file = "config/roughlyenoughitems/changelog.txt"
+hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "acb0853fc53e73d052b2bc34aef2f421e3016b9c98236a6ed811b8ee7c884a67"
+
+[[files]]
+file = "config/seedcracker.json"
+hash = "17d143a4927c024d62fa8a38a0c1c987a7b9153c7aa6cf2f6ff6f670c9b1a682"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "4eb582bb7e8c3ddb7d4d9e41c0fe9206d5768cc06c351226af3f2adfa3c64785"
+
+[[files]]
+file = "config/waila/waila.json"
+hash = "feeab4030df2e80853826ae23bd323d1beeca183d3dc3c02b119f3a90ac36ae1"
+
+[[files]]
+file = "config/waila/waila_plugins.json"
+hash = "3271c997d638f8a920d229b37fa99c5b7a3f28bf03c273158ec9b254432c4938"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "c26ae78ad8547bb8f62aff5cfcfc7e611401e31cb9305001b6e016027026460f"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "c9bd1955353fc10d3d01049ebd99c4765de638b2b9afed92f00082d61cbda8d2"
+
+[[files]]
+file = "crosshair_config.ccmcfg"
+hash = "4ac66e5f7395f3b94f33bd68e46ca74ecc8aba5686b2f60edb25b258a3d88e04"
+
+[[files]]
 file = "icon.svg"
 hash = "7bb655575371f8b4d4b339d3b81e7c66e475ca3a33677349053fdf4723633018"
 
@@ -139,6 +231,11 @@ hash = "04656f5209870e2bad86c0e81ece85df8dc592ccfb20aa16e726ffb4be192216"
 metafile = true
 
 [[files]]
+file = "mods/imblocker.pw.toml"
+hash = "2a917f831b65bc75e867b942f7cd65e435b84278fd935ca410bf166ba69bb913"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "1ab5733b357d9c788c357802d9052d952699dd905aeed81b41370169fab70c11"
 metafile = true
@@ -189,6 +286,11 @@ hash = "ce7d379e40a8b1294afa091387ab1c4e8db4bb5872cbe778b38cf059e5cefb54"
 metafile = true
 
 [[files]]
+file = "mods/linsapi.pw.toml"
+hash = "778e990aff1aea8f98791fef34ff4a4480c89268a8a451efacad3f5cbe371ad1"
+metafile = true
+
+[[files]]
 file = "mods/litematica-printer.pw.toml"
 hash = "7c613faa09bd9479661e29da84c2e6deea2b5e30a10d5cf585ff5842e916cb55"
 metafile = true
@@ -211,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "793ee1ce6df3caa67c66271b1591f0132974c5ba8e798d2e7a3258975ffe4b23"
+metafile = true
+
+[[files]]
+file = "mods/mctitlechanger.pw.toml"
+hash = "81ec8e01c21ee702faf47386fc5de381c5e73d2c88f97888436d1464082a9772"
 metafile = true
 
 [[files]]
@@ -274,6 +381,11 @@ hash = "4316869a722c334adbb9ff8833078830a33c3552cdb7c4f2e253e3d6472bfcd5"
 metafile = true
 
 [[files]]
+file = "mods/quit.pw.toml"
+hash = "af2211b2fefed5f9d456f22b2e669ada799f5a19835f013b2c2267bb40a6732f"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
@@ -306,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "cff6e118a7d2649ab479bbcf328d463349cfc8dc4bac3f5025395f34c2b505bb"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "413ce716e1ce679ff1097f1732023a5457ef5ec7b512d247ef087aeefd82d19b"
 metafile = true
 
 [[files]]
@@ -347,6 +464,10 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "c66028d555a347562589645179fe8834bd04d48b78c9a667f20b4178211dfbb3"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "2b10791c04c20d915fd928756d7334b6fc8a8e21a33815c4ac8c3069ccd83e49"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
