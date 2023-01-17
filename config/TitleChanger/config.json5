@@ -1,0 +1,7 @@
+{
+  ChangeTitle: true,
+  Title: "xtex's MP Pack %mcversion%",
+  ChangeIcons: true,
+  Icon16x: "icon16.png",
+  Icon32x: "icon32.png",
+}
