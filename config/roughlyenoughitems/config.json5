@@ -1,0 +1,13 @@
+{
+  advanced: {
+    search: {
+      tooltipSearch: "ALWAYS",
+      tagSearch: "PREFIX",
+      identifierSearch: "ALWAYS",
+      modSearch: "ALWAYS",
+    },
+  },
+  appearance: {
+    theme: "DARK",
+  },
+}
