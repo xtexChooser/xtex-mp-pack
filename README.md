@@ -32,5 +32,4 @@ This Fabric-modpack is client-only.
 
 ### TODO
 
-- IMBlocker
 - Chest Tracker(waiting for 1.19.3)
