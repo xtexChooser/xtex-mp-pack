@@ -1,0 +1,13 @@
+name = "Quit"
+filename = "Quit-Fabric-1.19.3-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "073099a867ead59baf398e6b2f6bf17a99a7eb71"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4174060
+project-id = 684750
