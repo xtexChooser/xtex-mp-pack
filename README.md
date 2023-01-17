@@ -22,7 +22,7 @@ This Fabric-modpack is client-only.
 
 - [MultiMC format](https://anonfiles.com/Fbuer1S0y5/xtex_s_MP_Pack_-_MultiMC_zip)
 
-  To keep your own cust
+  To keep your own customized configurations
 
 ## Play Tips
 
@@ -30,102 +30,7 @@ This Fabric-modpack is client-only.
 
 ### Known Issues
 
-  "buriedTreasure": {
+### TODO
 
-​    "enabled": true
-
-  },
-
-  "desertTemple": {
-
-​    "enabled": true
-
-  },
-
-  "endCity": {
-
-​    "enabled": true
-
-  },
-
-  "jungleTemple": {
-
-​    "enabled": true
-
-  },
-
-  "monument": {
-
-​    "enabled": true
-
-  },
-
-  "swampHut": {
-
-​    "enabled": true
-
-  },
-
-  "shipwreck": {
-
-​    "enabled": true
-
-  },
-
-  "outpost": {
-
-​    "enabled": true
-
-  },
-
-  "igloo": {
-
-​    "enabled": true
-
-  },
-
-  "endPillars": {
-
-​    "enabled": true
-
-  },
-
-  "endGateway": {
-
-​    "enabled": false
-
-  },
-
-  "dungeon": {
-
-​    "enabled": true
-
-  },
-
-  "emeraldOre": {
-
-​    "enabled": false
-
-  },
-
-  "desertWell": {
-
-​    "enabled": false
-
-  },
-
-  "warpedFungus": {
-
-​    "enabled": false
-
-  },
-
-  "biome": {
-
-​    "enabled": false
-
-  },
-
-## TODO
-
+- IMBlocker
 - Chest Tracker(waiting for 1.19.3)
