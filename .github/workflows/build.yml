@@ -30,16 +30,16 @@ jobs:
           cat modlist.txt >> report.md
 
       - name: Publish
-#        if: github.event_name == 'release'
+        #        if: github.event_name == 'release'
         uses: Kir-Antipov/mc-publish@v3.2
         with:
           modrinth-id: HsMwyVxf
           modrinth-featured: ${{ github.event_name == 'release' }}
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          files-primary: '*.mrpack'
+          files-primary: "*.mrpack"
           loaders: fabric
           game-versions: 1.19.3
-      
+
       - name: Create report
         uses: dtinth/markdown-report-action@v1
         with:
@@ -51,24 +51,24 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: Modrinth
-          path: *.mrpack
+          path: "*.mrpack"
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v3
         with:
           name: Curseforge
-          path: *.zip
+          path: "*.zip"
 
       - name: Upload Release
         uses: fnkr/github-action-ghr@v1
         if: github.event_name == 'release'
         env:
-          GHR_PATH: *.mrpack
+          GHR_PATH: "*.mrpack"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload Release
         uses: fnkr/github-action-ghr@v1
         if: github.event_name == 'release'
         env:
-          GHR_PATH: *.zip
+          GHR_PATH: "*.zip"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
