@@ -480,11 +480,6 @@ hash = "c5a806ef10c1a6e2b3d6a12200be2f0a3d267722ca0fa79ca3571a0bcdea216d"
 metafile = true
 
 [[files]]
-file = "resourcepacks/faithful-64x.pw.toml"
-hash = "629ad6780d1a6ba67598d027a6317cf57d1e59f4d3bd222b7a936023be776d02"
-metafile = true
-
-[[files]]
 file = "resourcepacks/faithless.pw.toml"
 hash = "a7c0411e93bf96188be2fa899f48cde25dd06843679927c13b00371941dd2c00"
 metafile = true
