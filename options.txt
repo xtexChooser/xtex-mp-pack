@@ -4,6 +4,7 @@ showSubtitles:true
 forceUnicodeFont:true
 gamma:1.0
 renderDistance:12
+guiScale:2
 particles:1
 tutorialStep:none
 skipMultiplayerWarning:true
