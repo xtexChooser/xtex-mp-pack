@@ -36,7 +36,7 @@ jobs:
           modrinth-id: HsMwyVxf
           modrinth-featured: ${{ github.event_name == 'release' }}
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          files-primary: *.mrpack
+          files-primary: '*.mrpack'
           loaders: fabric
           game-versions: 1.19.3
       
