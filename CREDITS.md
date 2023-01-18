@@ -12,7 +12,7 @@ Thanks to everyone who contributed to xtex's MP Pack and the parts it uses.
 
 - [XeKr Redstone Display](https://www.curseforge.com/minecraft/texture-packs/xekr-redstone-display)
 
-## Contributors
+## Direct Contributors
 
 <!--BEGIN CONTRIBUTORS LIST-->
 
