@@ -10,7 +10,7 @@ This Fabric-modpack is client-only.
 
 ###### Stable: Modrinth / CurseForge
 
-[nightly build](https://nightly.link/xtexChooser/xtex-mp-pack/workflows/build/main)   |   [Modrinth](https://modrinth.com/modpack/xtex-mp-pack)   |   [GitHub releases](https://github.com/xtexChooser/xtex-mp-pack/releases)
+[nightly build](https://nightly.link/xtexChooser/xtex-mp-pack/workflows/build/main) | [Modrinth](https://modrinth.com/modpack/xtex-mp-pack) | [GitHub releases](https://github.com/xtexChooser/xtex-mp-pack/releases)
 
 ###### Dev: packwiz installer
 
@@ -18,7 +18,7 @@ This Fabric-modpack is client-only.
 >
 > To keep your own customized configurations, disable custom prelaunch command after first launch.
 
-[packwiz bootstrap URL](https://raw.githubusercontent.com/xtexChooser/xtex-mp-pack/main/pack.toml)   |   [MultiMC format](https://anonfiles.com/Fbuer1S0y5/xtex_s_MP_Pack_-_MultiMC_zip)
+[packwiz bootstrap URL](https://raw.githubusercontent.com/xtexChooser/xtex-mp-pack/main/pack.toml) | [MultiMC format](https://anonfiles.com/Fbuer1S0y5/xtex_s_MP_Pack_-_MultiMC_zip)
 
 ## Play Tips
 
@@ -34,3 +34,15 @@ This Fabric-modpack is client-only.
 ### TODO
 
 - Chest Tracker(waiting for 1.19.3)
+
+## License
+
+This modpack is released under the Apache-2.0 license.
+
+> Copyright 2023 xtex
+>
+> Licensed under the Apache License, Version 2.0 (the "License");
+> you may not use this file except in compliance with the License.
+> You may obtain a copy of the License at
+>
+> ​ http://www.apache.org/licenses/LICENSE-2.0
