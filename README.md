@@ -8,11 +8,11 @@ This Fabric-modpack is client-only.
 
 ## Download
 
-###### Stable: Modrinth / CurseForge
+### Stable: Modrinth / CurseForge
 
 [latest build](https://nightly.link/xtexChooser/xtex-mp-pack/workflows/build/main) | [Modrinth](https://modrinth.com/modpack/xtex-mp-pack) | [GitHub releases](https://github.com/xtexChooser/xtex-mp-pack/releases)
 
-###### Dev: packwiz installer
+### Dev: packwiz installer
 
 > Using this bootstrap URL means your client will always be in sync with the latest development branch **at your own risk**.
 >
