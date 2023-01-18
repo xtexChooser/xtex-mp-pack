@@ -490,11 +490,6 @@ hash = "c5a806ef10c1a6e2b3d6a12200be2f0a3d267722ca0fa79ca3571a0bcdea216d"
 metafile = true
 
 [[files]]
-file = "resourcepacks/faithless.pw.toml"
-hash = "a7c0411e93bf96188be2fa899f48cde25dd06843679927c13b00371941dd2c00"
-metafile = true
-
-[[files]]
 file = "resourcepacks/mcwzh-meme-resourcepack.pw.toml"
 hash = "b38b26e05f8333c6964bb8c433cbb94f4816a81c4542faaf3d8ba96494b496fa"
 metafile = true
@@ -507,11 +502,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/twemojis.pw.toml"
 hash = "c4a282c0679c1da52563c151352d2708520b5213665c82eb0320dd985d8095af"
-metafile = true
-
-[[files]]
-file = "resourcepacks/visible-ores.pw.toml"
-hash = "9bf5ffbb2d669f57f299ea61727a1bd231aded6857b1b54c60bbd3c9b0760a01"
 metafile = true
 
 [[files]]
