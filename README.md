@@ -8,27 +8,24 @@ This Fabric-modpack is client-only.
 
 ## Download
 
-##### Modrinth / CurseForge
+###### Stable: Modrinth / CurseForge
 
-- [nightly build](https://nightly.link/xtexChooser/xtex-mp-pack/workflows/build/main)
-- [Modrinth](https://modrinth.com/modpack/xtex-mp-pack)
-- [GitHub releases](https://github.com/xtexChooser/xtex-mp-pack/releases)
+[nightly build](https://nightly.link/xtexChooser/xtex-mp-pack/workflows/build/main)   |   [Modrinth](https://modrinth.com/modpack/xtex-mp-pack)   |   [GitHub releases](https://github.com/xtexChooser/xtex-mp-pack/releases)
 
-##### packwiz installer
+###### Dev: packwiz installer
 
 > Using this bootstrap URL means your client will always be in sync with the latest development branch **at your own risk**.
+>
+> To keep your own customized configurations, disable custom prelaunch command after first launch.
 
-- [packwiz bootstrap URL](https://raw.githubusercontent.com/xtexChooser/xtex-mp-pack/main/pack.toml)
-
-- [MultiMC format](https://anonfiles.com/Fbuer1S0y5/xtex_s_MP_Pack_-_MultiMC_zip)
-
-  To keep your own customized configurations, disable custom prelaunch command after first launch.
+[packwiz bootstrap URL](https://raw.githubusercontent.com/xtexChooser/xtex-mp-pack/main/pack.toml)   |   [MultiMC format](https://anonfiles.com/Fbuer1S0y5/xtex_s_MP_Pack_-_MultiMC_zip)
 
 ## Play Tips
 
 ### Key Bindings
 
-- `G`: swap elytra and chestplate
+- `G`: swap elytra and chestplate ([Quick Elytra](https://modrinth.com/mod/quick-elytra))
+- `C`: zoom, scrool with mouse ([zoomify](https://modrinth.com/mod/zoomify))
 
 ### Known Issues
 
