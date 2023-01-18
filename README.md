@@ -35,6 +35,10 @@ This Fabric-modpack is client-only.
 
 - Chest Tracker(waiting for 1.19.3)
 
+## Credits
+
+See the [CREDITS.md](https://github.com/xtexChooser/xtex-mp-pack/blob/main/CREDITS.md).
+
 ## License
 
 This modpack is released under the Apache-2.0 license.

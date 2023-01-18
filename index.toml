@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CREDITS.md"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "LICENSE"
 hash = "c95bae1d1ce0235ecccd3560b772ec1efb97f348a79f0fbe0a634f0c2ccefe2c"
 
@@ -146,6 +150,11 @@ hash = "11fe9da06043756e637e29d0e051f6745a788464a551808534162a96616c8615"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "b1ff809ec34348860c3a403f3d5210f7386ddcda8f0d19c5ff4533fd22abeb08"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "b019eca1706674644cc8a130b818f827783437943e358e336dfc99f84f1aed01"
 metafile = true
@@ -206,6 +215,11 @@ hash = "b4ac16e8e0113ff8be8ec0de146d94c104bed2cb27b9ffcf1567c460a575b27e"
 metafile = true
 
 [[files]]
+file = "mods/exordium.pw.toml"
+hash = "4e2a60e26cb6760c58dd2ed193f071c430b76cb542ebda0394cfacd220c12362"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "f6bc53688790ec2d88c96568f6d7569bf0111931c569cf64b511cdbe95090c82"
 metafile = true
@@ -221,6 +235,11 @@ hash = "a67dff6de3f1fbe3320f1f83d1392a754b0df83e408036d9fe23c16d410447d1"
 metafile = true
 
 [[files]]
+file = "mods/fastload.pw.toml"
+hash = "15b6b396301b255a6f7533af0ff4b14944c8c46980b6029775fc1d82600b942a"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4c1b893d87c51588985c483fe33193ca03cf3673de998eef6eeb850d8928e7ab"
 metafile = true
@@ -233,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/imblocker.pw.toml"
 hash = "2a917f831b65bc75e867b942f7cd65e435b84278fd935ca410bf166ba69bb913"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "c94f7d7af7823e7a22616599d2fe18d9d9429d7ca1f3cc2e4bee436181d64584"
 metafile = true
 
 [[files]]
@@ -446,6 +470,11 @@ hash = "43c03287e02e8cec03c996d184b629577689306c9009e5f145623e79376e3f33"
 metafile = true
 
 [[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "930afd91b92eb34ec0706647028327674fa7ada4a4395e8b7dca1e4e1c4d839c"
+metafile = true
+
+[[files]]
 file = "mods/whoami.pw.toml"
 hash = "92881f23b9835dd0962a51ffb24f12b8f11e881bd8a5a10c63874223ed60e436"
 metafile = true
@@ -477,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4665356190e4b854e1050a3966cfde63f741b9a35ea426c34def6ef3cabb5ac9"
+hash = "7234e69fb2a2d8b2d34b233d4fc431fb7de1f406bdbc100292ec3c8742a136d8"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
