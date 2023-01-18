@@ -20,6 +20,7 @@ jobs:
           curl -o packwiz.zip -L https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip
           unzip packwiz.zip
           chmod +x packwiz
+          rm packwiz.zip
 
       - name: Build
         run: |
@@ -51,13 +52,6 @@ jobs:
           name: Curseforge
           path: "*.zip"
 
-      - name: Upload Release
-        uses: fnkr/github-action-ghr@v1
-        if: github.event_name == 'release'
-        env:
-          GHR_PATH: rel
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Publish
         if: github.event_name == 'release'
         uses: Kir-Antipov/mc-publish@v3.2
@@ -68,3 +62,10 @@ jobs:
           files-primary: "*.mrpack"
           loaders: fabric
           game-versions: 1.19.3
+
+      - name: Upload Release
+        uses: fnkr/github-action-ghr@v1
+        if: github.event_name == 'release'
+        env:
+          GHR_PATH: rel
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
