@@ -26,6 +26,7 @@ This Fabric-modpack is client-only.
 
 - `G`: swap elytra and chestplate ([Quick Elytra](https://modrinth.com/mod/quick-elytra))
 - `C`: zoom, scrool with mouse ([zoomify](https://modrinth.com/mod/zoomify))
+- `GRAVE`: Litematica
 
 ### Known Issues
 
