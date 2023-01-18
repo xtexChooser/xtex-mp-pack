@@ -471,8 +471,13 @@ hash = "c66028d555a347562589645179fe8834bd04d48b78c9a667f20b4178211dfbb3"
 metafile = true
 
 [[files]]
+file = "mods/zoomify.pw.toml"
+hash = "72214bf1c5210d1fd5d47f5fe354310ea7d7e1268eb48574c0655d6d4f4d5c42"
+metafile = true
+
+[[files]]
 file = "options.txt"
-hash = "41b196372f3cf27dccdcb331fc967b1445de74eb1b6805a9a9700bd18c9b8c34"
+hash = "4665356190e4b854e1050a3966cfde63f741b9a35ea426c34def6ef3cabb5ac9"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
