@@ -29,16 +29,11 @@ jobs:
           cp *.mrpack rel/
           cp *.zip rel/
 
-      - name: Publish
-        if: github.event_name == 'release'
-        uses: Kir-Antipov/mc-publish@v3.2
-        with:
-          modrinth-id: HsMwyVxf
-          modrinth-featured: ${{ github.event_name == 'release' }}
-          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          files-primary: "*.mrpack"
-          loaders: fabric
-          game-versions: 1.19.3
+      - name: Sync Readme
+        run: |
+          sudo apt-get install jo
+          jo body=@README.md > payload.json
+          curl -A "xtex's MP Pack CI" -H "Authorization: ${{ secrets.MODRINTH_TOKEN }}" -H "Content-Type: application/json" -X PATCH -d "$(cat payload.json)" https://api.modrinth.com/v2/project/HsMwyVxf
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v3
@@ -58,3 +53,14 @@ jobs:
         env:
           GHR_PATH: rel
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish
+        if: github.event_name == 'release'
+        uses: Kir-Antipov/mc-publish@v3.2
+        with:
+          modrinth-id: HsMwyVxf
+          modrinth-featured: ${{ github.event_name == 'release' }}
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+          files-primary: "*.mrpack"
+          loaders: fabric
+          game-versions: 1.19.3
