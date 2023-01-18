@@ -1,6 +1,6 @@
 name = "xtex's MP Pack"
 author = "xtex"
-version = "1.1.0"
+version = "1.2.0"
 description = "Minecraft modpack focusing on multiplayer (Survival, Creative or PvP) performance and experience optimization. "
 pack-format = "packwiz:1.1.0"
 
