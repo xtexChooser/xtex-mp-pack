@@ -1,9 +1,9 @@
-# https://meme.teahouse.team/#br=GyoCIJwHdqxmOsJks2fHbMw27czLWdiIfmSz6Ih0bZEtmZjJItN3eXoRi1asrmNP+hRoYw0LPM+rTscGQw8vNSssNqn/Vr+LGlEXlGovS6wmkGWCPkM0UB1xGSCbRUpYAwsuOR+874TeCJxNJT6nzJA/sQ+3Nuim5aGCmntu6C0Pn+04hMcBxjoslBNZOWIX9sJe0tSdKvR3ZnilRSwPOFV7IOs2kHP0p6s/d/t957YpIXYiHazK7HnJwthnt3vmfaQ6+VYQheBtMEVJZDQuI8GUHiyszwanN9gzs3RiY9uRuHzwshB8Ko536s5kFqa34p0D76S0E+70jQ/AHVz/BJm7NKw6oDGxtAa5mT7u/uztY8sjbEZ1tdjjPbUzPXvw1tZhjnBHMTGhux+UQcVc2+P96n4=
+# https://meme.teahouse.team/#br=GxwCIJwFzrnQffdhcW5uWLPI7PXx1xw/7czLOzRUfwKdaPVrFh2Rri0SI7P1nnP/JjYdEN4tsimAGmc44PhtX3UuEIjeylhibTt/F7mpkHVC+fHNxNNYsJD0VKgf1I+4EIjHoAQNzLrk2CSC0JvoEtde7iMRyB/yK606fHp5SIBm7Rm9FMuNbanYAmIFFkoIVvb4C/tfbLlLEHX8rwavVCj9HWPnhebTwDnxz/C8g79vz+mE8gU6UGU8T0UFcQ2OJjEjv+SSEoVgT5giIxgNutUw5UsUfdYmf4AediPChRXqZD4UsvT4XBPuKO1qFuiV5pSCV9rPjbTzKStgmdR/jyZDG+lu0olriLzH+XrZkRIVwWWFKM/WxuZ4MGZWYAcvUD6QuvkkqVS+hSjP0to=
 name = "mcwzh-meme-resourcepack"
 filename = "mcwzh-meme-resourcepack.zip"
 side = "client"
 
 [download]
-url = "https://cdn-127.anonfiles.com/L6K4t6S5y6/29c3f625-1673964462/meme.teahouse.team-373df2.zip"
+url = "https://web.archive.org/web/20230118045736if_/https://meme-assets.wd-api.com/meme.teahouse.team-697787.zip"
 hash-format = "sha1"
-hash = "036c3ccd35bbd41b238ff9d239ab1077da47d238"
+hash = "18bf19bd9cb80185a024d1f06c69576b549b7b08"

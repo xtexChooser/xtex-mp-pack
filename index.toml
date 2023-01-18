@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CREDITS.md"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "ae6e259e6427eeca249e4501fec6b7eae7e51d3215c5ab6d81fc30eec60f88e0"
 
 [[files]]
 file = "LICENSE"
@@ -520,7 +520,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mcwzh-meme-resourcepack.pw.toml"
-hash = "b38b26e05f8333c6964bb8c433cbb94f4816a81c4542faaf3d8ba96494b496fa"
+hash = "1336efeb5152701315c962ebfd12dd23beb1d1fe871bb23eb3816a9e1c0cd16d"
 metafile = true
 
 [[files]]

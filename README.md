@@ -34,6 +34,8 @@ This Fabric-modpack is client-only.
 ### TODO
 
 - Chest Tracker(waiting for 1.19.3)
+- [mcwzh-meme-resourcepack#269](https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack/issues/269)
+- [multiconnect#505](https://github.com/Earthcomputer/multiconnect/issues/505)
 
 ## Credits
 
