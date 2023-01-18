@@ -49,6 +49,10 @@ file = "config/lambdynlights.toml"
 hash = "83b8c0bbd7c92d6e668155d49f5266a1537988d76866e16ff310e2faa07ad2e3"
 
 [[files]]
+file = "config/litematica.json"
+hash = "6181daa65101244b112b7357a9c7b2fdb02526a1019e64f497b94563d0441419"
+
+[[files]]
 file = "config/modmenu.json"
 hash = "6beb9fd9967db5dc552e16b469e3f932b6f485aa43f43460e0634354a1e45289"
 
@@ -506,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "7234e69fb2a2d8b2d34b233d4fc431fb7de1f406bdbc100292ec3c8742a136d8"
+hash = "14a208df5dce2c5f0ab856091f3b5b1b189e199c559dc03ce3606f26b9c5bea6"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"

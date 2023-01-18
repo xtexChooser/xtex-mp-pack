@@ -1,0 +1,43 @@
+{
+  "Hotkeys": {
+    "addSelectionBox": {
+      "keys": "GRAVE_ACCENT,A"
+    },
+    "layerModeNext": {
+      "keys": "GRAVE_ACCENT,PAGE_UP"
+    },
+    "layerModePrevious": {
+      "keys": "GRAVE_ACCENT,PAGE_DOWN"
+    },
+    "openGuiMainMenu": {
+      "keys": "GRAVE_ACCENT"
+    },
+    "openGuiMaterialList": {
+      "keys": "GRAVE_ACCENT,L"
+    },
+    "openGuiSchematicPlacements": {
+      "keys": "GRAVE_ACCENT,P"
+    },
+    "openGuiSchematicVerifier": {
+      "keys": "GRAVE_ACCENT,V"
+    },
+    "openGuiSelectionManager": {
+      "keys": "GRAVE_ACCENT,S"
+    },
+    "openGuiSettings": {
+      "keys": "GRAVE_ACCENT,C"
+    },
+    "pickBlockToggle": {
+      "keys": "GRAVE_ACCENT,BUTTON_3"
+    },
+    "toggleAllRendering": {
+      "keys": "GRAVE_ACCENT,R"
+    },
+    "toggleSchematicRendering": {
+      "keys": "GRAVE_ACCENT,G"
+    },
+    "toolEnabledToggle": {
+      "keys": "GRAVE_ACCENT,T"
+    }
+  }
+}

@@ -14,6 +14,7 @@ joinedFirstServer:false
 allowServerListing:true
 onlyShowSecureChat:false
 key_iliamakar.datapacksscreen.open_gui_keybind:key.keyboard.unknown
+key_key.custom-crosshair-mod.edit_crosshair:key.keyboard.unknown
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.inventoryhud.openconfig:key.keyboard.unknown
@@ -23,4 +24,5 @@ key_key.quit.boss_key:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_zoomify.key.zoom.secondary:key.keyboard.unknown
 soundCategory_music:0.35
