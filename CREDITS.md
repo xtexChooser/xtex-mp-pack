@@ -10,6 +10,8 @@ Thanks to everyone who contributed to xtex's MP Pack and the parts it uses.
 
 - [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/) & [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/)
 
+- [XeKr Redstone Display](https://www.curseforge.com/minecraft/texture-packs/xekr-redstone-display)
+
 ## Contributors
 
 <!--BEGIN CONTRIBUTORS LIST-->
