@@ -10,7 +10,7 @@ This Fabric-modpack is client-only.
 
 ###### Stable: Modrinth / CurseForge
 
-[nightly build](https://nightly.link/xtexChooser/xtex-mp-pack/workflows/build/main) | [Modrinth](https://modrinth.com/modpack/xtex-mp-pack) | [GitHub releases](https://github.com/xtexChooser/xtex-mp-pack/releases)
+[latest build](https://nightly.link/xtexChooser/xtex-mp-pack/workflows/build/main) | [Modrinth](https://modrinth.com/modpack/xtex-mp-pack) | [GitHub releases](https://github.com/xtexChooser/xtex-mp-pack/releases)
 
 ###### Dev: packwiz installer
 
@@ -45,4 +45,4 @@ This modpack is released under the Apache-2.0 license.
 > you may not use this file except in compliance with the License.
 > You may obtain a copy of the License at
 >
-> ​ http://www.apache.org/licenses/LICENSE-2.0
+>  http://www.apache.org/licenses/LICENSE-2.0
