@@ -18,7 +18,7 @@ This Fabric-modpack is client-only.
 >
 > To keep your own customized configurations, disable custom prelaunch command after first launch.
 
-[packwiz bootstrap URL](https://raw.githubusercontent.com/xtexChooser/xtex-mp-pack/main/pack.toml) | [MultiMC format](https://anonfiles.com/Fbuer1S0y5/xtex_s_MP_Pack_-_MultiMC_zip)
+[packwiz bootstrap URL](https://raw.githubusercontent.com/xtexChooser/xtex-mp-pack/main/pack.toml) | [MultiMC format](https://anonfiles.com/c0x83dS7y0/xtex_s_MP_Pack_-_MultiMC_zip)
 
 ## Play Tips
 
