@@ -14,6 +14,8 @@ joinedFirstServer:false
 allowServerListing:true
 onlyShowSecureChat:false
 key_iliamakar.datapacksscreen.open_gui_keybind:key.keyboard.unknown
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.inventoryhud.openconfig:key.keyboard.unknown
 key_key.glitchifyed.quick_elytra.open_config:key.keyboard.unknown
 key_key.quit.fast_quit:key.keyboard.unknown
