@@ -36,7 +36,7 @@ jobs:
           echo "<details><summary>Credits</summary>" >> body.md
           cat CREDITS.md >> body.md
           echo "</details>" >> body.md
-          jo body=@README.md > payload.json
+          jo body=@body.md > payload.json
           curl -A "xtex's MP Pack CI" -H "Authorization: ${{ secrets.MODRINTH_TOKEN }}" -H "Content-Type: application/json" -X PATCH -d "$(cat payload.json)" https://api.modrinth.com/v2/project/HsMwyVxf
 
       - name: Upload Artifact
