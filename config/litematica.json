@@ -39,5 +39,8 @@
     "toolEnabledToggle": {
       "keys": "GRAVE_ACCENT,T"
     }
+  },
+  "InfoOverlays": {
+    "blockInfoLinesFontScale": 1.0
   }
 }
