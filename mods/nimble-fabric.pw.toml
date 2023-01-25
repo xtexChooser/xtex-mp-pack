@@ -1,13 +1,13 @@
 name = "Nimble (Fabric)"
-filename = "Nimble-1.19.3-fabric-4.0.0.jar"
+filename = "Nimble-1.19.3-fabric-4.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5abdeb6d128beb1cae7fde29a7a9b267106da3d0"
+hash = "9aa26ee94e447b3db78abb2dcd7bb4153c9a507d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4282531
+file-id = 4363602
 project-id = 545613
