@@ -54,7 +54,7 @@ hash = "83b8c0bbd7c92d6e668155d49f5266a1537988d76866e16ff310e2faa07ad2e3"
 
 [[files]]
 file = "config/litematica.json"
-hash = "6181daa65101244b112b7357a9c7b2fdb02526a1019e64f497b94563d0441419"
+hash = "41bff96952c14403704b9d3eb265c5db1f222ce81a1a7a6c0e386c1c7f1b6271"
 
 [[files]]
 file = "config/modmenu.json"
@@ -170,6 +170,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "621ca00937c28f7ec4aaf53d58f72317219776318693342773056dcb325b87b0"
+metafile = true
+
+[[files]]
+file = "mods/chest-tracker.pw.toml"
+hash = "338e0cdea2346d17f3828c9ee05a516016851a520653513520d39cf7d6cff311"
 metafile = true
 
 [[files]]
