@@ -10,7 +10,7 @@ hash = "c95bae1d1ce0235ecccd3560b772ec1efb97f348a79f0fbe0a634f0c2ccefe2c"
 
 [[files]]
 file = "README.md"
-hash = "db15f54bec2f40dbfc9712910577d3000f464d4d2ce2dbb23c17b7d4f899adae"
+hash = "d2dd2e909ef056ca166a87c580900698c42cdde1e4676c8f15c7beb6f9f1bb31"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mcwzh-meme-resourcepack.pw.toml"
-hash = "1336efeb5152701315c962ebfd12dd23beb1d1fe871bb23eb3816a9e1c0cd16d"
+hash = "dc8b69569fb53aa18192e0cbb4bf006cfb63e7ba3c190a5abb3c4a3139cbcada"
 metafile = true
 
 [[files]]

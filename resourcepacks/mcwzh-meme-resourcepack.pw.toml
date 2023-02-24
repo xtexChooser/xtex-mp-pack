@@ -4,6 +4,6 @@ filename = "mcwzh-meme-resourcepack.zip"
 side = "client"
 
 [download]
-url = "https://web.archive.org/web/20230118045736if_/https://meme-assets.wd-api.com/meme.teahouse.team-697787.zip"
+url = "https://web.archive.org/web/20230224013331if_/https://meme-assets.wd-api.com/meme.teahouse.team-09beb7.zip"
 hash-format = "sha1"
-hash = "18bf19bd9cb80185a024d1f06c69576b549b7b08"
+hash = "38c5f51bbf54118d1b13c13851546789e0383f63"
