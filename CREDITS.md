@@ -38,6 +38,7 @@ This is a complete list of all mods, resource packs included in this pack.
 - Concurrent Chunk Management Engine (Fabric)
 - Carpet
 - Chat Heads
+- Chest Tracker
 - ClickThrough
 - Cloth Config API
 - Custom Crosshair Mod
