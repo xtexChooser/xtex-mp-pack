@@ -1,13 +1,13 @@
 name = "LinsAPI"
-filename = "LinsAPI-1.3.jar"
+filename = "LinsAPI-1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YgnbXPMn/versions/hHe4RxQs/LinsAPI-1.3.jar"
+url = "https://cdn.modrinth.com/data/YgnbXPMn/versions/vFExHmAO/LinsAPI-1.4.jar"
 hash-format = "sha1"
-hash = "1c7211189bdc321228327ad5be8c43c2860b3795"
+hash = "e12e6267e67404bb6ed4f0fb64e529664f69979c"
 
 [update]
 [update.modrinth]
 mod-id = "YgnbXPMn"
-version = "hHe4RxQs"
+version = "vFExHmAO"
