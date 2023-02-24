@@ -32,12 +32,6 @@ This Fabric-modpack is client-only.
 
 - Crashes when opening creative mode inventory in single-player mode([multiconnect#505](https://github.com/Earthcomputer/multiconnect/issues/505))
 
-### TODO
-
-- Chest Tracker(waiting for 1.19.3)
-- [mcwzh-meme-resourcepack#269](https://github.com/Teahouse-Studios/mcwzh-meme-resourcepack/issues/269)
-- [multiconnect#505](https://github.com/Earthcomputer/multiconnect/issues/505)
-
 ## Credits
 
 See the [CREDITS.md](https://github.com/xtexChooser/xtex-mp-pack/blob/main/CREDITS.md).
