@@ -16,6 +16,8 @@ Thanks to everyone who contributed to xtex's MP Pack and the parts it uses.
 
 <!--BEGIN CONTRIBUTORS LIST-->
 
+- dependabot[bot]
+- xtex
 - xtexChooser
 
 <!--END CONTRIBUTORS LIST-->
